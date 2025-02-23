@@ -21,5 +21,3 @@ root.render(
     </Switch>
   </BrowserRouter>
 );
-
-Git status
